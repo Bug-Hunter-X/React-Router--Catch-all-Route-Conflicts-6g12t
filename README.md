@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router v6 where the catch-all route (`*`) interferes with other defined routes.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides a solution using the order of routes and potentially more specific catch-all routes.
